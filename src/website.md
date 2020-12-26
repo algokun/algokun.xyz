@@ -1,80 +1,26 @@
-# Mizi
+# Home
 ## About
-###  
-This site was generated using this file: [website.md](https://raw.githubusercontent.com/AbstractXan/Mizi/master/src/website.md)
+### Me in 1 second
+A product nerd exploring the landscape of design and development of products.
 
-[Read more](https://github.com/abstractxan/mizi) about Mizi
+### Me in 30 Seconds
+Hi there, I am Mohan. You may know me as [algokun](https://www.twitter.com/algokun). I'm a design minded developer and a product nerd — who believes **empathy** can be used to solve most of the user problems in the world.
 
-$$$ 
-## separate
-###  
-This is a separate page
-## separate2
-###  
-This is separate page2
+I like to see how my ideas 💭 could be converted to products 📺
 
-# Testing
-## HTML
-### Html &lt; p &gt; tag
-<p>This is a paragraph</p>
+I've been coding since 16 and have experience with various web and mobile technologies such as Node.js, React, Flutter.
 
-## Index
-### First
-Lorem Ipsum
-### Second
-Dolor sit amet
-### Third
-Consectetur adipiscing elit
-Hell!
+### Website
+You just landed on my planet in this huge galaxy of internet and in this planet you may encounter species
 
-## Unordered List
-### UL
-- First
-- Second
-- Third
-### UL Overflow Check
-- Above text should be heading 
+- centaur — half-baked notes
+- unicorns — high-value stuff
+- pegasus — personal projects
 
-## Links
-### Simple
-[link](https://www.abstractxan.xyz)
-### Inline
-Text [link](https://abstractxan.xyz) text
-### Multiple
-Text [link](https://abstractxan.xyz) text [link](https://abstractxan.xyz) text
-### Errors
-[broken text (https://abstractxan.xyz)
+I created this planet to help me write, share and connect with other worlds. I made this website using my own static site generator which is in it's baby stage and I'm working to improve its functionality.
 
-[broken text [text](https://abstractxan.xyz)
+### Goal
 
-[broken link](https://abstractxan.xyz [normal link](https://www.abstractxan.xyz)
-
-[broken link]
-
-[nested [links] (https://abstractxan.xyz)](https://google.com)
-
-## Images
-### Optional alt text
-![](../media/interface/favicon.ico)
-### Single
-![image](../media/interface/favicon.ico)
-### Inline
-Text! ![image](../media/interface/favicon.ico) !Text
-### Multiple
-![image](../media/interface/favicon.ico) ![image](../media/interface/favicon.ico)
-### Errors
-![brokenImageText (../media/interface/favicon.ico)
-![brokenImageLink]
-
-## SeparatePages
-###  
-- [Separate page](separate.html)
-- [Separate page2](separate2.html)
-
-
-## Tagging
-### Lorem Ipsum
-This post is {{tagged}}. Again {{tagged1}}.
-{{tag}}
-{{tag broken 1}
-{{tag broken 2
+- Further Exploration in design and development
+- Getting control over my thoughts and achieve inner peace
+- Build products that users really need and help them solve their problems.
