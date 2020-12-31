@@ -17,10 +17,41 @@ You just landed on my planet in this huge galaxy of internet and in this planet 
 - unicorns — high-value stuff
 - pegasus — personal projects
 
-I created this planet to help me write, share and connect with other worlds. I made this website using my own static site generator which is in it's baby stage and I'm working to improve its functionality.
+I created this planet to help me write, share and connect with other planets in this huge galaxy of internet.
 
+Coming to the development side of this planet, I pledge to keep things minimal and simple right from the start and that's reason I decided to ditch everything and chose [Mizi](), a static site generator built with C++.
 ### Goal
 
 - Further Exploration in design and development
 - Getting control over my thoughts and achieve inner peace
 - Build products that users really need and help them solve their problems.
+## Journal
+### Repo
+Journal is a wall where i document my most recent developer adventures. You can find my journal [here](https://www.journal.algokun.xyz).
+
+# Blog
+## 2020: Year in Review
+### Gist
+This year 
+
+- 💪 gave my health top priority
+- 🧑‍💻 occasional leetcoding
+- 🏃 started NoFapChallenge and ditched porn
+- 🧠 built my knowledge base in roam
+- 🧒 learned user-centred design
+- 🔭 explored flutter and state-management patterns in it
+- 💰 earned my first penny from freelancing
+- 🧘 made a new habit - meditation
+- 📺 fell in love with product design and management
+- 📖 started reading fiction to keep myself away from digital consumption
+- 🧑‍🤝‍🧑 made new friends and connections
+- 🧑‍🚀 became a startup-junkie
+- 🕺 shipped my personal site
+
+### What went wrong
+- failed to crack my dream internship
+- deploying the products I've planned to build became lalaland
+- gsoc planning gone wrong
+- broke my reading streak - read one book per month
+- cloning a minimal static site generator was broke down
+- failed to build a community in our college
