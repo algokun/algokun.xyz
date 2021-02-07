@@ -23,14 +23,14 @@
 
 @font-face {
   font-family: "regular";
-  src: url("../media/fonts/helvetica.ttf") format("truetype");
+  src: url("../media/fonts/400.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "bold";
-  src: url("../media/fonts/mabry.otf") format("opentype");
+  src: url("../media/fonts/700.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -45,8 +45,10 @@
 :root {
   --primary: #4094f5;
   --text-primary: #ffffff;
-  --text-secondary: #999999;
+  --text-secondary: #9099a4;
+  --text-tertiary: #d6d6d6;
   --bg-color: #000000;
+  --surface: #080808;
 }
 
 html {
@@ -110,13 +112,16 @@ body main > img {
   max-width: 600px;
 }
 
-body main > ul {
-  font-family: "mono";
-  font-size: 0.8rem;
+body main > ul:not(.jump) {
+  background-color: var(--surface);
+  padding: 1rem;
+  border-radius: .2rem;
+  line-height: 1.5rem;
+  color: var(--text-tertiary);
 }
 
 body main > ul li {
-  list-style: disc;
+  list-style: none;
 }
 
 body main > ul li a {
@@ -178,6 +183,8 @@ body main > p.quote {
 body main > ul.jump {
   columns: 2;
   line-height: 20px;
+  font-family: mono;
+  font-size: 0.8rem;
 }
 
 body main > ul.jump li {
