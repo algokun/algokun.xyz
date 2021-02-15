@@ -9,6 +9,8 @@ struct Config
   std::string name;
   std::string description;
   std::string twitter_creator;
+  std::string twitter_card_image;
+  std::string url;
   std::string header;
   std::string footer;
 };

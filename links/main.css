@@ -48,7 +48,7 @@
   --text-secondary: #9099a4;
   --text-tertiary: #d6d6d6;
   --bg-color: #000000;
-  --surface: #080808;
+  --surface: #111111;
 }
 
 html {
@@ -91,14 +91,14 @@ body main img.medium {
 
 body main > * {
   max-width: 35rem;
-  margin-bottom: 30px;
+  margin-bottom: 1.25rem;
 }
 
 body main > h1 {
   font-family: "bold";
   font-size: 2rem;
   text-transform: capitalize;
-  padding-bottom: 30px;
+  padding-bottom: 0;
 }
 
 body main > h2 {
@@ -118,10 +118,6 @@ body main > ul:not(.jump) {
   border-radius: .2rem;
   line-height: 1.5rem;
   color: var(--text-tertiary);
-}
-
-body main > ul li {
-  list-style: none;
 }
 
 body main > ul li a {

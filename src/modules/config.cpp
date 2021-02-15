@@ -44,6 +44,14 @@ Config * configParser()
           {
             conf->twitter_creator = value;
           }
+          else if (key == "url")
+          {
+            conf->url = value;
+          }
+          else if (key == "twitter_card_image")
+          {
+            conf->twitter_card_image = value;
+          }
           else if (key == "header")
           {
             conf->header = value;

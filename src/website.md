@@ -1,6 +1,7 @@
 # Home
 ## About
 ### Me in 1 second
+This is my half-baked bio.
 A product nerd exploring the landscape of design and development of products.
 
 ### Me in 30 Seconds
@@ -20,38 +21,41 @@ You just landed on my planet in this huge galaxy of internet and in this planet 
 I created this planet to help me write, share and connect with other planets in this huge galaxy of internet.
 
 Coming to the development side of this planet, I pledge to keep things minimal and simple right from the start and that's reason I decided to ditch everything and chose [Mizi](), a static site generator built with C++.
-### Goal
 
+### Goal
 - Further Exploration in design and development
 - Getting control over my thoughts and achieve inner peace
 - Build products that users really need and help them solve their problems.
+
 ## Journal
 ### Repo
 Journal is a wall where i document my most recent developer adventures. You can find my journal [here](https://www.journal.algokun.xyz).
 
-# Blog
-## 2020: Year in Review
-### Gist
-This year 
+# Musings
+## Connecting dots is effing important 
+###  
+I would like to tell a story, there's a kid Mohan - who reads a lot of Dev stuff. Like literally lot and thinks himself that he can understand anything and he's the best one - who could possibly be the next zuck (just kidding)
+When he read something, he just assumes he understood it and never questioned his guts. He literally consuming a hell lot of information and his expectations are reaching mars.
+Lately he realized that he was unable to explain something to his friends and he's sad.
+Ever happened something like this? Let's see where he failed and how he failed.
+I would like to quote a statement from Richard Feynman "You don't fool yourself and you're the easy person to being fool". Reading something doesn't mean you understand it. The only way to ensure is by explaining it to someone or writing it down.
+When reading you're just importing the raw information from the writer's words and they just stored as raw nodes. They can't be reused in the future, unless you try to keep on remembering them.
+You have to keep questioning yourself whether you understand it or not. When you understand you'll be able to connect the existing dots you have.
+Don't just read for information, read for understanding. Yeah there's a possibility that sometimes information can help you understand something, when it does question yourself.
+Thanks for coming this far by reading everything. I'm trying to write my raw thoughts about a topic and this is the first one.
 
-- 💪 gave my health top priority
-- 🧑‍💻 occasional leetcoding
-- 🏃 started NoFapChallenge and ditched porn
-- 🧠 built my knowledge base in roam
-- 🧒 learned user-centred design
-- 🔭 explored flutter and state-management patterns in it
-- 💰 earned my first penny from freelancing
-- 🧘 made a new habit - meditation
-- 📺 fell in love with product design and management
-- 📖 started reading fiction to keep myself away from digital consumption
-- 🧑‍🤝‍🧑 made new friends and connections
-- 🧑‍🚀 became a startup-junkie
-- 🕺 shipped my personal site
+## How to maintain information diet?
+###  
+Most of what we consume these days is the mental equivalent of junk food. 
 
-### What went wrong
-- failed to crack my dream internship
-- deploying the products I've planned to build became lalaland
-- gsoc planning gone wrong
-- broke my reading streak - read one book per month
-- cloning a minimal static site generator was broke down
-- failed to build a community in our college
+We always been the victims of clickbaits, instead spending our time to delight our minds with content we consume. We've been hooked by our social media feeds and they trapped us in the timeloop. We become the modern hamster, who's running constantly on a wheel.
+
+Here's what I'm doing to fight with modern consumption
+
+- Start any fiction or history book, that you can love reading.
+  The goal for someone who's recently getting started to read books is that "read what you love until you love reading"
+- Hit dopamine by watching some good-old movies (my all time favs are - fightclub,eternal sunshine of spotless mind...).
+- Read personal blogs of people who you found intresting
+  This is yet another way of learning, where you get your content from their experiences
+- Read the reading list of other people chances are you might not find them that intresting, you can always drop something you don't like
+- Create your own feed using RSS. I recently discovered the power of RSS and how can one create their own feed is really fascinating.
