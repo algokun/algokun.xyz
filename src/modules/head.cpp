@@ -15,7 +15,7 @@ string html_head(Config* conf, string text) {
          "'><meta name='viewport' content='width=device-width, initial-scale=1.0'>"
          "<meta name='robots' content='index,follow' />"
          "<meta name='twitter:card' content='summary_large_image' />"
-         "<meta name='googlebot' content='index,follow' /><meta name='twitter:card' content='summary'><meta "
+         "<meta name='googlebot' content='index,follow' /><meta "
          "name='twitter:site' content='" +
          conf->name + "'><meta name='twitter:title' content='" + conf->name +
          "'><meta name='twitter:description' content='" + conf->description +
