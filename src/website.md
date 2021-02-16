@@ -31,17 +31,17 @@ Coming to the development side of this planet, I pledge to keep things minimal a
 ### Repo
 Journal is a wall where i document my most recent developer adventures. You can find my journal [here](https://www.journal.algokun.xyz).
 
-# Musings
-## Connecting dots is effing important 
+# Raw Thoughts
+## Understanding and Unlearning
 ###  
-I would like to tell a story, there's a kid Mohan - who reads a lot of Dev stuff. Like literally lot and thinks himself that he can understand anything and he's the best one - who could possibly be the next zuck (just kidding)
-When he read something, he just assumes he understood it and never questioned his guts. He literally consuming a hell lot of information and his expectations are reaching mars.
-Lately he realized that he was unable to explain something to his friends and he's sad.
-Ever happened something like this? Let's see where he failed and how he failed.
-I would like to quote a statement from Richard Feynman "You don't fool yourself and you're the easy person to being fool". Reading something doesn't mean you understand it. The only way to ensure is by explaining it to someone or writing it down.
-When reading you're just importing the raw information from the writer's words and they just stored as raw nodes. They can't be reused in the future, unless you try to keep on remembering them.
-You have to keep questioning yourself whether you understand it or not. When you understand you'll be able to connect the existing dots you have.
-Don't just read for information, read for understanding. Yeah there's a possibility that sometimes information can help you understand something, when it does question yourself.
+![spectrum-of-understanding](../media/images/spectrum_of_knowledege.png)
+There's a fact that **no two people (even your past self) can understand the same thing in a same way** and how do you learn something that you already know? 
+The illiterate of the 21st century will not be those who cannot read and write, but those who cannot **learn, unlearn and relearn** - [Alvin Toffler](https://en.wikipedia.org/wiki/Alvin_Toffler)
+Ever faced with a situation where you understood something in the past and now it doesn't make sense? It's might be of two reasons - you memorise it or you just consumed a part of the spectrum 
+If you memorise something, it is because you assumed you understood something and the gaps are left unfilled. To test your understanding, you can either teach someone (it could be you) or write it down or attack it from multiple things
+Feynman beautifully puts **You don't fool yourself and you're the easiest one to fool**
+The ability to rethink and unlearn matters most. As, you're just biased towards your existing knowledge and you can't foresee what you know. **The greatest enemy of learning is what you think you know**
+To understand the whole spectrum, you need to unlearn and gain new lens to see your past knowledge.
 Thanks for coming this far by reading everything. I'm trying to write my raw thoughts about a topic and this is the first one.
 
 ## How to maintain information diet?
