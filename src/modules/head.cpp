@@ -24,7 +24,7 @@ string html_head(Config* conf, string text) {
          "'><meta property='og:url' content='" + conf->url +
          "'><meta property='og:description' content='" + conf->description +
          "'><meta property='og:type' content='website' />"
-         "<meta property='og:image' content='"+ conf->twitter_card_image+
+         "<meta property='og:image' content='"+ conf->icon +
          "'><meta property='og:image:alt' content='"+ conf->name+ "'>"
          "<meta property='og:site_name' content='" + conf->name +
          "'><title> " + conf->name + " - " + text +
