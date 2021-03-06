@@ -59,3 +59,41 @@ Here's what I'm doing to fight with modern consumption
   This is yet another way of learning, where you get your content from their experiences
 - Read the reading list of other people chances are you might not find them that intresting, you can always drop something you don't like
 - Create your own feed using RSS. I recently discovered the power of RSS and how can one create their own feed is really fascinating.
+
+# Collections
+## Movies
+### 90s Cult Classics 
+I recently started watching good old hollywood movies and enjoyed each and every film.
+
+I felt delightful and can't put the feeling into words. I'm just awestruck. Here's my list and I hope you'll enjoy too
+
+- The Sixth Sense
+- The Shawshank Redemption
+- Memento
+- Fight club
+- Se7en 1995
+- The Eternal Sunshine of the Spotless Mind
+- Truman Show
+- Forrest Gump
+- Cast Away
+- The Usual Suspects
+- American Beauty
+- The Silence of the lambs
+- Being John Malkovich
+- Donnie darko
+- The matrix
+- Good will hunting
+
+### 2000s Gems
+From this era, the production quality is skytouching.
+
+- Shutter island
+- Catch me if you can
+- The Man from Earth
+- Pursuit of happiness
+- The Prestige
+- Zodiac
+- Into the wild
+- Knowing (film)
+- Apocalypto
+
